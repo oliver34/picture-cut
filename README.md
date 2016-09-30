@@ -10,5 +10,5 @@
 
 效果图：
 
-![前端知识框架](http://ocg5h4y2o.bkt.clouddn.com/picture-cut.png)
+![效果图](http://ocg5h4y2o.bkt.clouddn.com/%28%5D44S~NA1OJ%7BY79_%5BE$5%7D5G.png)
 
